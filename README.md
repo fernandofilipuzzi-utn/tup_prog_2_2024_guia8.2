@@ -1,1 +1,1 @@
-# tup_prog_2_2024_guia8.2
+# Guía 8.2. Manejo de fechas
